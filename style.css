@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    font-family: calibri;
+}
+#googleLens{
+    padding: 10px;
+    height: 75px;
+    border: 5px inset black;
+    font-family: comic sans ms;
+    background-color: beige;
+}
+#googleLens:hover{
+    background-color: wheat;
+    border: 5px outset black;
+}
+#mobileNet{
+    padding: 10px;
+    height: 75px;
+    border: 5px outset white;
+    font-family: courier;
+    background-color: grey;
+}
+#mobileNet:hover{
+    background-color: rgb(158, 158, 158);
+    border: 5px inset white;
+}
+hr{
+    background-color: black;
+    height: 1px;
+    width: 1000px;
+}
+h3{
+    font-family: calibri;
+}
